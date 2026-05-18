@@ -105,6 +105,6 @@ medical-insurance-cost-prediction/
 
 ## 🙋‍♂️ Author
 
-**Farid** — Learning Machine Learning
+**Farid** — Machine Learning
 ---
 
