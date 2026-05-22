@@ -1,4 +1,4 @@
-# 🏥 Medical Insurance Cost Prediction
+# 🏥 Medical  Cost Prediction
 
 A machine learning project that predicts annual medical insurance charges for customers using **Linear Regression** with Python and Scikit-learn.
 
