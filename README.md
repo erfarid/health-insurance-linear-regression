@@ -64,7 +64,7 @@ Top features influencing insurance charges:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/medical-insurance-cost-prediction.git
+[git clone https://github.com/your-username/medical-insurance-cost-prediction.git](https://github.com/erfarid/health-insurance-linear-regression.git)
 cd medical-insurance-cost-prediction
 ```
 
